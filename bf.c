@@ -9,8 +9,6 @@
 #include "code.h"
 #include "codegen.h"
 
-// XXX: いくつかの関数でオーバーフローを考慮していないので注意
-
 int main(int argc, char** argv)
 {
 	ICODE* icode;
